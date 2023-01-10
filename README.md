@@ -41,7 +41,7 @@
 
 <img src='images/2022_qatar_franco_morbidelli.png'>
 
-<img src='images/2022_qatar_pol_espargaro'>
+<img src='images/2022_qatar_pol_espargaro.png'>
 
 В заголовке для каждого гонщика укаывается его место в итоговом рейтинге (R12). <br>
 Далее приводятся точечные оценки по каждому из трёх показателей и место в рейтинге:
