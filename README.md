@@ -37,7 +37,7 @@
 
 <img src='images/scr4.png'>
 
-<br>
+**Образцы графиков**
 
 <img src='images/2022_qatar_franco_morbidelli.png'>
 
