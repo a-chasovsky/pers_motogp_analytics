@@ -1,6 +1,6 @@
 ## Методика оценки результатов MotoGP
 
-**Стек:** Python, Pandas, Numpy, Selenium, Difflib, Seaborn, pyPDF, PyMyPDF
+**Стек:** Python, Numpy, Pandas, Selenium, Difflib, Seaborn, pyPDF, PyMyPDF
 
 ### Краткое описание проекта
  
